@@ -38,15 +38,15 @@ plugin:
     minor: 0
     patch: 19
   description: A Google Analytics plugin for CrafterCMS
-  documentation: "https://raw.githubusercontent.com/craftercms/google-analytics-plugin/master/readme.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/google-analytics-plugin/master/readme.md"
   website:
     name: Google Analytics Plugin
-    url: https://github.com/craftercms/google-analytics-plugin
+    url: https://github.com/craftersoftware/google-analytics-plugin
   media:
     screenshots:
       - title: Google Analytics
         description: Google Analytics
-        url: https://raw.githubusercontent.com/craftercms/google-analytics-plugin/master/.crafter/cover.png
+        url: https://raw.githubusercontent.com/craftersoftware/google-analytics-plugin/master/.crafter/cover.png
   developer:
     company:
       name: CrafterCMS
